@@ -32,4 +32,4 @@ License Information
 
 This product is _**open source**_! 
 
-Please review the LICENSE and SparkFun_LICENSE.md files for license information. 
+Please review the LICENSE file for license information. 
