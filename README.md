@@ -32,4 +32,6 @@ License Information
 
 This product is _**open source**_! 
 
-Please review the LICENSE file for license information. 
+Please review the LICENSE file for license information.  
+
+This is a modified [SparkFun](https://github.com/sparkfun/SparkFun_MPU-9250-DMP_Arduino_Library/tree/master) repository, here is their [license](https://github.com/sparkfun/SparkFun_MPU-9250-DMP_Arduino_Library/blob/master/LICENSE.md).
