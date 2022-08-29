@@ -1,3 +1,5 @@
+#include "main.h"
+
 #ifndef _STM32_MPU9250_I2C_H_
 #define _STM32_MPU9250_I2C_H_
 
