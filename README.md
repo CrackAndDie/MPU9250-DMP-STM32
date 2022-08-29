@@ -25,6 +25,7 @@ How To Use
 --------------
 
 - Open file **stm32_mpu9250_i2c.c** and change the ```extern I2C_HandleTypeDef hi2c2;``` line by writing there your I2C Handler and everywhere in the file.
+- In the file also change SDA and SCL pins and ports defines.
 - Similar usage examples you can find [here](https://github.com/sparkfun/SparkFun_MPU-9250-DMP_Arduino_Library/tree/master/examples).
 
 License Information
