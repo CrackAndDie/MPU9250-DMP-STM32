@@ -255,4 +255,5 @@
 #define DMP_BLPFNMZL    510
 #ifdef __cplusplus
 
+#endif // __cplusplus
 #endif // DMPMAP_H
