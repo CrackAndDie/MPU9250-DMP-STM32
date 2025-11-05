@@ -44,7 +44,7 @@ static void I2C_ClearBusyFlagErratum(I2C_HandleTypeDef* handle, uint32_t timeout
     GPIO_InitStructure.Pull = GPIO_NOPULL;
 
     GPIO_InitStructure.Pin = I2C_SCL_Pin;
-    HAL_GPIO_Init(GPIOB, &GPIO_InitStructure);
+    HAL_GPIO_Init(I2C_SCL_GPIO_Port, &GPIO_InitStructure);
 
     GPIO_InitStructure.Pin = I2C_SDA_Pin;
     HAL_GPIO_Init(I2C_SDA_GPIO_Port, &GPIO_InitStructure);
